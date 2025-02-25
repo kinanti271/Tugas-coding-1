@@ -30,7 +30,7 @@ public class OperasiMatriks {
             }
         }
 
-        // Menampilkan hasil
+        // Menampilkan hasil.
         System.out.println("Hasil penjumlahan matriks:");
         //Menampilkan teks sebelum hasil matriks.
         for (int[] baris : hasil) {
